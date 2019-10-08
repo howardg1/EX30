@@ -1,7 +1,7 @@
 # Gavin Howard
 # 10/7/19
 # EX 30
-
+#
 people = 30
 cars = 40
 trucks = 15
